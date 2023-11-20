@@ -1,0 +1,22 @@
+<!-- 
+        <div class="border-l-4 border-yellow-500 flex bg-yellow-100 p-3">
+            <p class="text-yellow-700 px-2">você não tem mais acesso.</p>
+            <a class="text-yellow-900 underline cursor-pointer" href="./paginacadastro.html">Faça o upgrade da sua conta!</a>
+        </div> -->
+
+         <div class="w-96 rounded-md border border-gray-500 bg-white p-4">
+            <div>
+                <div class="inline-block">
+                    <img class="w-14 h-14 rounded-full" src="https://tailwindui.com/img/avatar-1.jpg" alt="">
+                </div>
+                <div class="inline-block ml-5">
+                    <div class="text-black pb-2">Sérgio Lima</div>
+                    <div class="text-gray-400">Convida para evento...</div>
+                </div>
+            </div>
+            <div class="mt-4">
+                <button class="rounded-md px-5 py-2 bg-blue-800 text-white">Aceitar</button>
+                <button class=" ml-3 rounded-md px-5 py-2 border border-gray-300 text-black">Negar</button>
+            </div>
+
+        </div>
